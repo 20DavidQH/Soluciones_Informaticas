@@ -3,7 +3,7 @@ const CONFIG = {
 
   whatsappNumber: "51929496405",
 
-  whatsappDisplay: "+51 929 496 405",
+  whatsappDisplay: "+51 929 *** ***",
 
   whatsappMessage: "Hola 👋 Vi tu página web y me interesaron tus servicios de sistemas. 💻 ¿Podrías brindarme más información?"
 };
